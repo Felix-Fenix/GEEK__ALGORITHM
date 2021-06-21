@@ -17,8 +17,8 @@ a = [int(i) for i in input('Введите 4 натуральных числа :
 b = [int(i) for i in input('Введите 4 натуральных числа : ')]
 c = [int(i) for i in input('Введите 4 натуральных числа : ')]
 d = [int(i) for i in input('Введите 4 натуральных числа : ')]
-
-array = [a, b, c, d]
+e = [int(i) for i in input('Введите 4 натуральных числа : ')]
+array = [a, b, c, d, e]
 
 for i in array:
     sum_l = []

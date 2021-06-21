@@ -5,6 +5,7 @@
 """
 array = [85, 18, 51, 32, 22, 90, 65, 74, 76, 34]
 
+
 def min_n(a, b):
     return a if a < b else b
 

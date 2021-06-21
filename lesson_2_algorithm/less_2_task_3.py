@@ -6,4 +6,4 @@
 a = input('Введите набор цифр : ')
 
 for i in reversed(a):
-    print(i, end= ' ')
+    print(i, end=' ')

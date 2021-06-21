@@ -6,4 +6,8 @@
 a = input('Введите набор цифр : ')
 
 for i in reversed(a):
+<<<<<<< HEAD
+    print(i, end= ' ')
+=======
     print(i, end=' ')
+>>>>>>> fb964bb0d6a54701eedec6f64a49be7d8f703f44

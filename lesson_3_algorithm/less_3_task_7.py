@@ -26,3 +26,5 @@ def mysort_MIN(array):
 sort_LIST = mysort_MIN(array.copy())
 print(array)
 print(f'Два минимальных числа из списка: {sort_LIST[0]}, {sort_LIST[1]}')
+
+

@@ -39,10 +39,10 @@ print('------------------------------------------------------------')
 import random
 a = int(input('Введите первое число : '))
 b = int(input('Введите второе число : '))
-res = random.randrange(a,b + 1)
+res = random.randrange(a, b + 1)
 print(res)
-print(round(random.uniform(a,b),2))
-if res >26:
+print(round(random.uniform(a, b), 2))
+if res > 26:
     res = 26
 print(chr(res + 96))
 print('------------------------------------------------------------')

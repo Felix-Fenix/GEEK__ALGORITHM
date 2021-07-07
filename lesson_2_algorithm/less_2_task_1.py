@@ -26,7 +26,7 @@ while True:
     elif sign == '*':
         print(a * b)
     elif sign == '/':
-        print(round(a / b,2))
+        print(round(a / b, 2))
     elif sign == '+':
         print(a + b)
     elif sign == '-':
